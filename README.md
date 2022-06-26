@@ -1,5 +1,5 @@
 
-Dieses Projekt demonstriert die Nutzung von IPC mit Sockets durch das Spiel Schiffeversenken. 
+Dieses Projekt demonstriert die Nutzung von IPC mit Sockets durch das Spiel Schiffe-Versenken. 
 
 ### Wie gespielt wird
 Der Skript Battleship.py wird über das Terminal gestartet. So installiert das Spiel alle nötigen Bibliotheken.
